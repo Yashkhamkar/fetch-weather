@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-weather/static/css/main.ed4d44c4.css",
+    "main.js": "/fetch-weather/static/js/main.6f1f4c4e.js",
+    "index.html": "/fetch-weather/index.html",
+    "main.ed4d44c4.css.map": "/fetch-weather/static/css/main.ed4d44c4.css.map",
+    "main.6f1f4c4e.js.map": "/fetch-weather/static/js/main.6f1f4c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed4d44c4.css",
+    "static/js/main.6f1f4c4e.js"
+  ]
+}
